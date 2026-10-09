@@ -23,19 +23,19 @@ problems, from scientific research to practical applications.
 
 ## Featured Projects
 
-### Restaurant Recommendation System with RAG
+#### Restaurant Recommendation System with RAG
 Built a restaurant recommendation system using semantic search,
 structured metadata, and a local language model.
 
-### Predictive Maintenance
+#### Predictive Maintenance
 Developed a predictive maintenance workflow using PySpark
 to process sensor measurements and investigate equipment behaviour.
 
-### Speech Command Recognition
+#### Speech Command Recognition
 Implemented and compared deep learning approaches for recognizing
 spoken commands using audio representations such as STFT and MFCC.
 
-### Stochastic Differential Equation Discovery
+#### Stochastic Differential Equation Discovery
 Implemented a Python version of a sparse Bayesian inference method
 for discovering stochastic differential equations from simulated data.
 
