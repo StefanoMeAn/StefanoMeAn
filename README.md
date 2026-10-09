@@ -66,4 +66,3 @@ cosmology and astronomical image analysis.
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/stefanomean/)
-- [GitHub](https://github.com/StefanoMeAn)
