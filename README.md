@@ -1,4 +1,4 @@
-# Hi, I'm Stefano 👋
+# Hi, I'm Stefano!
 
 I'm a physicist with a Master's degree in Physics of Data from the
 University of Padova, with experience in machine learning, deep learning,
