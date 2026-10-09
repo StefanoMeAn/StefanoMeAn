@@ -6,7 +6,7 @@ computer vision, and scientific computing.
 
 My background combines physics research with data-driven methods.
 I've worked on astronomical image analysis, object detection,
-stochastic modelling, and natural language processing.
+and natural language processing.
 
 I'm interested in applying machine learning and AI to real-world
 problems, from scientific research to practical applications.
