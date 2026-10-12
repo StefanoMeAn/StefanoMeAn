@@ -23,10 +23,19 @@ problems, from scientific research to practical applications.
 
 ## Experience
 
-### Research — CNR-IFN, Padova
+### Intern — CNR, Institute for Photonics and Nanotechnologies (IFN)
 Worked on astronomical image analysis and object detection for the
-Metis coronagraph aboard ESA's Solar Orbiter mission, using image
-processing, computer vision, and deep learning.
+Metis coronagraph aboard ESA's Solar Orbiter mission, applying
+image processing, computer vision, and deep learning.
+
+### Data Science Consultant — GRAVITAD Systems
+Contributed to data analysis and scientific computing projects,
+applying computational and statistical methods to technical problems.
+
+### Cosmology Research — Yachay Tech University
+Conducted research on cosmological inflation, focusing on numerical
+analysis of the generalized Starobinsky model and its predictions
+for the primordial power spectrum.
 
 ### Projects
 
