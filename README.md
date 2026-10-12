@@ -48,3 +48,4 @@ for the primordial power spectrum.
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/stefanomean/)
+- [Download my Data Science CV](Stefano_Meza_Anzules_Data_Science_CV.pdf)
